@@ -26,7 +26,7 @@ The **[Nuraveda-Labs/nuraveda-lab](https://github.com/Nuraveda-Labs/nuraveda-lab
 ## 🌟 Flagship projects
 
 ### 🧠 [Glitch Executor](https://glitchexecutor.com/) — [glitchexecutor.com](https://glitchexecutor.com/)
-End-to-end execution platform spanning algorithmic trading, sports-betting intelligence, and growth automation. Productized from the lab's earlier Trade/Edge/Grow work — the pieces that proved themselves in live production. Fine-tuned models and locked playbooks remain proprietary; productized capability is sold or deployed as a managed service.
+A prop-firm trading dashboard. Track every prop-firm challenge in real time — drawdown, targets, daily limits — across all your connected accounts in one view, with a strategy builder and a backtester that's aware of each firm's rule set. One dashboard for every connected account; build a strategy, then test it against the exact rules of the firm you're trading.
 
 ### 🕸️ [Mesh Pilot](https://meshpilot.app/) — [meshpilot.app](https://meshpilot.app/)
 An open agent mesh + a proprietary orchestration brain.
