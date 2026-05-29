@@ -13,7 +13,6 @@
 <p align="center">
   <a href="https://github.com/Nuraveda-Labs"><img src="https://img.shields.io/badge/GitHub-Nuraveda--Labs-181717?style=for-the-badge&logo=github&labelColor=0a0a0f" alt="GitHub: Nuraveda-Labs"></a>
   <a href="https://gitlab.com/nuraveda-lab"><img src="https://img.shields.io/badge/GitLab-nuraveda--lab-FC6D26?style=for-the-badge&logo=gitlab&labelColor=0a0a0f" alt="GitLab: nuraveda-lab"></a>
-  <a href="https://codeberg.org/Nuraveda_lab"><img src="https://img.shields.io/badge/Codeberg-Nuraveda__lab-2185D0?style=for-the-badge&logo=codeberg&labelColor=0a0a0f" alt="Codeberg: Nuraveda_lab"></a>
 </p>
 
 ---
@@ -50,6 +49,18 @@ Mesh Pilot is **partially open**. Anything that calls it "fully open source" is 
 | [`ai-sales-agent`](https://github.com/Nuraveda-Labs/ai-sales-agent) | Sales pipeline — outreach, qualification, follow-up. |
 | [`ai-ugc-agent`](https://github.com/Nuraveda-Labs/ai-ugc-agent) | UGC generation pipelines for D2C and brand work. |
 | [`app-docs`](https://github.com/Nuraveda-Labs/app-docs) | Public Mesh Pilot agent documentation. |
+
+---
+
+## 🛠️ Open-source tooling & projects
+
+| Project | What it is |
+|---|---|
+| [`linkedin-ads-mcp`](https://github.com/Nuraveda-Labs/linkedin-ads-mcp) | MCP server for the LinkedIn Marketing API — campaigns, analytics, creatives from any MCP client. [`pip install linkedin-ads-mcp`](https://pypi.org/project/linkedin-ads-mcp/) · or connect instantly via [Mesh Pilot](https://meshpilot.app). |
+| [`hydrogen-d2c-starter`](https://github.com/Nuraveda-Labs/hydrogen-d2c-starter) | Production-grade Shopify Hydrogen + React Router 7 starter for D2C brands. |
+| [`ouroboros-cbot`](https://github.com/floating-astronaut/ouroboros-cbot) | Multi-timeframe cTrader cBot — six ML bots merged into one `.algo`. |
+
+All MIT licensed.
 
 ---
 
