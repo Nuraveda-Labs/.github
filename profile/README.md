@@ -60,7 +60,7 @@ Mesh Pilot is **partially open**. Anything that calls it "fully open source" is 
 | [`hydrogen-d2c-starter`](https://github.com/Nuraveda-Labs/hydrogen-d2c-starter) | Production-grade Shopify Hydrogen + React Router 7 starter for D2C brands. |
 | [`ouroboros-cbot`](https://github.com/floating-astronaut/ouroboros-cbot) | Multi-timeframe cTrader cBot — six ML bots merged into one `.algo`. |
 
-All MIT licensed.
+Hydrogen Starter + Ouroboros cBot are MIT. LinkedIn Ads MCP is [FSL-1.1-MIT](https://github.com/Nuraveda-Labs/linkedin-ads-mcp/blob/main/LICENSE.md) — free to use, just not to build a competing product; converts to MIT after two years.
 
 ---
 
