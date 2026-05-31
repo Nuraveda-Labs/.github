@@ -58,9 +58,10 @@ Mesh Pilot is **partially open**. Anything that calls it "fully open source" is 
 |---|---|
 | [`linkedin-ads-mcp`](https://github.com/Nuraveda-Labs/linkedin-ads-mcp) | MCP server for the LinkedIn Marketing API — campaigns, analytics, creatives from any MCP client. [`pip install linkedin-ads-mcp`](https://pypi.org/project/linkedin-ads-mcp/) · or connect instantly via [Mesh Pilot](https://meshpilot.app). |
 | [`hydrogen-d2c-starter`](https://github.com/Nuraveda-Labs/hydrogen-d2c-starter) | Production-grade Shopify Hydrogen + React Router 7 starter for D2C brands. |
+| [`shopify-agentic-seo-app`](https://github.com/Nuraveda-Labs/shopify-agentic-seo-app) | Open framework for an agentic SEO app for Shopify — audits, JSON-LD automation, `llms.txt` / AI-search readiness. The Shopify surface of Mesh Pilot's SEO agent. |
 | [`ouroboros-cbot`](https://github.com/floating-astronaut/ouroboros-cbot) | Multi-timeframe cTrader cBot — six ML bots merged into one `.algo`. |
 
-Hydrogen Starter + Ouroboros cBot are MIT. LinkedIn Ads MCP is [FSL-1.1-MIT](https://github.com/Nuraveda-Labs/linkedin-ads-mcp/blob/main/LICENSE.md) — free to use, just not to build a competing product; converts to MIT after two years.
+Hydrogen Starter, Shopify Agentic SEO App, and Ouroboros cBot are MIT. LinkedIn Ads MCP is [FSL-1.1-MIT](https://github.com/Nuraveda-Labs/linkedin-ads-mcp/blob/main/LICENSE.md) — free to use, just not to build a competing product; converts to MIT after two years.
 
 ---
 
