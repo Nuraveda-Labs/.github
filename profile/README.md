@@ -63,7 +63,7 @@ Scan any lease or contract and get a plain-English, statute-grounded read in sec
 | [`shopify-agentic-seo-app`](https://github.com/Nuraveda-Labs/shopify-agentic-seo-app) | Open framework for an agentic SEO app for Shopify — audits, JSON-LD automation, `llms.txt` / AI-search readiness. |
 | [`ouroboros-cbot`](https://github.com/floating-astronaut/ouroboros-cbot) | Multi-timeframe cTrader cBot — six ML bots merged into one `.algo`. |
 
-Hydrogen Starter, Medusa + Next.js E-commerce Kit, Shopify Agentic SEO App, and Ouroboros cBot are MIT. LinkedIn Ads MCP is [FSL-1.1-MIT](https://github.com/Nuraveda-Labs/linkedin-ads-mcp/blob/main/LICENSE.md) — free to use, just not to build a competing product; converts to MIT after two years.
+All five — LinkedIn Ads MCP, Hydrogen Starter, Medusa + Next.js E-commerce Kit, Shopify Agentic SEO App, and Ouroboros cBot — are **MIT**: free to use, modify, and redistribute, including in a commercial product.
 
 ---
 
