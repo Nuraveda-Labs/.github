@@ -1,8 +1,12 @@
 <h1 align="center">Nuraveda Lab</h1>
 
 <p align="center">
+  <a href="https://nuraveda.com"><img src="https://img.shields.io/badge/🌐_nuraveda.com-Visit_the_lab-0a0a0f?style=for-the-badge&labelColor=0a0a0f&color=00ff88" alt="nuraveda.com"></a>
+</p>
+
+<p align="center">
   <b>A production AI lab. We ship.</b><br/>
-  Three products, live and in production: <a href="https://glitchexecutor.com/"><b>Glitch Executor</b></a> · <a href="https://vediqastrology.com/"><b>Vediq</b></a> · <a href="https://clauselens.online/"><b>Clause Lens</b></a>
+  <a href="https://nuraveda.com"><b>nuraveda.com</b></a> — three products, live and in production: <a href="https://glitchexecutor.com/"><b>Glitch Executor</b></a> · <a href="https://vediqastrology.com/"><b>Vediq</b></a> · <a href="https://clauselens.online/"><b>Clause Lens</b></a>
 </p>
 
 <p align="center">
@@ -28,6 +32,6 @@ An AI lease / contract decoder. Scan any lease or contract and get a plain-Engli
 
 <p align="center">
   <sub>
-    Based in <b>Toronto 🍁</b> · A production AI lab — real products, real users, real infrastructure.
+    <a href="https://nuraveda.com">nuraveda.com</a> · Based in <b>Toronto 🍁</b> · A production AI lab — real products, real users, real infrastructure.
   </sub>
 </p>
