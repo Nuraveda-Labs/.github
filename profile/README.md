@@ -30,6 +30,49 @@ An AI lease / contract decoder. Scan any lease or contract and get a plain-Engli
 
 ---
 
+## 🛠️ Stack
+
+**Languages & runtime**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,swift,cs,bash&theme=dark" alt="Languages">
+</p>
+
+**AI / ML / realtime**
+
+<p>
+  <img src="https://img.shields.io/badge/Anthropic_Claude-D4A27F?style=flat-square&logoColor=white" alt="Anthropic">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
+  <img src="https://img.shields.io/badge/LiveKit-000000?style=flat-square&logo=livekit&logoColor=white" alt="LiveKit">
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white" alt="LangGraph">
+  <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logoColor=white" alt="MCP">
+</p>
+
+**App & frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,astro,tailwind,vite&theme=dark" alt="Frontend">
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo">
+  <img src="https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI">
+</p>
+
+**Backend, data & infra**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,redis,prisma,supabase,aws,gcp,cloudflare,docker,terraform&theme=dark" alt="Infra">
+</p>
+
+**Trading / markets**
+
+<p>
+  <img src="https://img.shields.io/badge/cTrader-F08F00?style=flat-square&logoColor=white" alt="cTrader">
+  <img src="https://img.shields.io/badge/MetaTrader_5-0088CC?style=flat-square&logoColor=white" alt="MT5">
+  <img src="https://img.shields.io/badge/Interactive_Brokers-E1001A?style=flat-square&logoColor=white" alt="IBKR">
+  <img src="https://img.shields.io/badge/Binance-F3BA2F?style=flat-square&logo=binance&logoColor=black" alt="Binance">
+</p>
+
+---
+
 <p align="center">
   <sub>
     <a href="https://nuraveda.com">nuraveda.com</a> · Based in <b>Toronto 🍁</b> · A production AI lab — real products, real users, real infrastructure.
