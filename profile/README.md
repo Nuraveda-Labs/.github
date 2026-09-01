@@ -28,7 +28,7 @@ A Vedic astrology app. Accurate birth-chart calculation and personalized daily g
 ### 📜 [Clause Lens](https://clauselens.online/) — [clauselens.online](https://clauselens.online/)
 An AI lease / contract decoder. Scan any lease or contract and get a plain-English, statute-grounded read in seconds: the risky clauses, what the law says, and what to ask before you sign.
 
-### 🔰 [Meshpilot AGI] (https://github.com/Meshpilot-AGI/) — [meshpilot.app](https://meshpilot.app/)
+### 🔰 [Meshpilot AGI](https://github.com/Meshpilot-AGI/) — [meshpilot.app](https://meshpilot.app/)
 We build self-hostable AI agents that run marketing end to end — a standing cloud worker with memory, judgment, its own tools, and a learning loop, instead of one more dashboard to babysit. Open-core: the agents are free and open; a managed, multi-tenant hosted platform is the paid product.
 
 ---
